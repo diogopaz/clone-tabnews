@@ -14,6 +14,6 @@ function Home() {
   );
 }
 
-function a = () {}
+const hello = () => {};
 
 export default Home;
