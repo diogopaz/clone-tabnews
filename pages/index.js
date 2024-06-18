@@ -14,6 +14,4 @@ function Home() {
   );
 }
 
-const hello = () => {};
-
 export default Home;
