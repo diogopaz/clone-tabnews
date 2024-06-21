@@ -1,1 +1,1 @@
-# Curso Deschamps (curso.dev)
+# Clone TabNews (curso.dev)
